@@ -1,6 +1,10 @@
 # Web3Neighborhood
 
-Goal: Build a User interface (UI) which Experience (UX) facilitates citizens to make decisions following peer governance, i.e., templates for drafting a proposal, prompt questions for improving the quality of the arguments in favor and against a proposal, prompt questions that help turning polarized arguments into common ground, requiring arguments when voting against, and providing clear instructions on what one should expect after each phase of governance goes through.
+**Goal:** Build a User interface (UI) which Experience (UX) facilitates citizens to make decisions following peer governance. i.e., templates for drafting a proposal, prompt questions for improving the quality of the arguments in favor and against a proposal, prompt questions that help turning polarized arguments into common ground, requiring arguments when voting against, and providing clear instructions on what one should expect after each phase of governance goes through.
+
+You can visualize the UI via this presentation the team carried out at Eth Cinco de Mayo, which btw, won the 2nd place :)
+
+[![Web3 neighborhood governance presentation](https://img.youtube.com/vi/yXfP4XOMekI/0.jpg)](https://www.youtube.com/watch?v=yXfP4XOMekI)
 
 This neighborhood governance forum is only one part of the envisioned dashboard to facilitate city management, one neighborhood at a time.
 
